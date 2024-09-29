@@ -1,0 +1,4 @@
+﻿  Merge_sort.cpp
+D:\C++代码\Merge_sort\Merge_sort.cpp(1,1): warning C4828: 文件包含在偏移 0x3fa 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\C++代码\Merge_sort\Merge_sort.cpp(10,22): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  Merge_sort.vcxproj -> D:\C++代码\Merge_sort\x64\Debug\Merge_sort.exe
