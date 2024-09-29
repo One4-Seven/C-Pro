@@ -1,0 +1,4 @@
+﻿  BKDRHash.cpp
+D:\C++代码\BKDRHash\BKDRHash.cpp(1,1): warning C4828: 文件包含在偏移 0x4a6 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\C++代码\BKDRHash\BKDRHash.cpp(39,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  BKDRHash.vcxproj -> D:\C++代码\BKDRHash\x64\Debug\BKDRHash.exe
