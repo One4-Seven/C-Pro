@@ -1,0 +1,3 @@
+﻿  Triangle.cpp
+D:\C++代码\Triangle\Triangle.cpp(7,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Triangle.vcxproj -> D:\C++代码\Triangle\x64\Debug\Triangle.exe
