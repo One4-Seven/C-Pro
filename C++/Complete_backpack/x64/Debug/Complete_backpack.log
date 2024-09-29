@@ -1,0 +1,4 @@
+﻿  Complete_backpack.cpp
+D:\C++代码\Complete_backpack\Complete_backpack.cpp(1,1): warning C4828: 文件包含在偏移 0x68f 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\C++代码\Complete_backpack\Complete_backpack.cpp(29,5): error C2084: 函数“int main(void)”已有主体
+D:\C++代码\Complete_backpack\Complete_backpack.cpp(12,5): message : 参见“main”的前一个定义
